@@ -1,2 +1,3 @@
-# OS_lab
-My codes for OS_lab in 2022
+# ucore_os
+
+操作系统课程实验实现的ucore操作系统。
